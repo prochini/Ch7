@@ -1,0 +1,17 @@
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.deps.json
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.dll
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.pdb
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.csprojAssemblyReference.cache
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.AssemblyInfoInputs.cache
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.AssemblyInfo.cs
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.csproj.CoreCompileInputs.cache
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.dll
+C:\CodingKaoshiungArtOfUnitTesting\CodingKaoshiungArtOfUnitTesting\C#\CKUT\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.pdb
+C:\Github\Ch7\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.deps.json
+C:\Github\Ch7\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.dll
+C:\Github\Ch7\CKUT.Core\bin\Debug\netcoreapp3.1\CKUT.Core.pdb
+C:\Github\Ch7\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.AssemblyInfoInputs.cache
+C:\Github\Ch7\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.AssemblyInfo.cs
+C:\Github\Ch7\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.csproj.CoreCompileInputs.cache
+C:\Github\Ch7\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.dll
+C:\Github\Ch7\CKUT.Core\obj\Debug\netcoreapp3.1\CKUT.Core.pdb

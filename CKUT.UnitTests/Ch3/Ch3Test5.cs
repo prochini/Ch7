@@ -44,7 +44,7 @@ namespace CKUT.UnitTests.Ch3
 
         private void GivenPngFileName()
         {
-            _fileName = "1.txt";
+            _fileName = "1.png";
         }
     }
 }
